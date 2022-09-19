@@ -1,0 +1,15 @@
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\bin\Debug\net6.0\Estructuras de datos.exe
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\bin\Debug\net6.0\Estructuras de datos.deps.json
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\bin\Debug\net6.0\Estructuras de datos.runtimeconfig.json
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\bin\Debug\net6.0\Estructuras de datos.dll
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\bin\Debug\net6.0\Estructuras de datos.pdb
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.csproj.AssemblyReference.cache
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.AssemblyInfoInputs.cache
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.AssemblyInfo.cs
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.csproj.CoreCompileInputs.cache
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.dll
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\obj\Debug\net6.0\refint\Estructuras de datos.dll
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.pdb
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.genruntimeconfig.cache
+C:\Users\matias.PATERNAL\source\repos\Estructuras de datos\Estructuras de datos\obj\Debug\net6.0\ref\Estructuras de datos.dll
